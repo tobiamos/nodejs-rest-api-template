@@ -10,7 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^8.0.0"
+    "boom": "^7.3.0",
+    "bunyan": "^1.8.12",
+    "dotenv": "^8.0.0",
+    "joi": "^13.6.0",
+    "mongoose": "^5.5.13"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
